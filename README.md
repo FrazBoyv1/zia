@@ -21,7 +21,7 @@ FORK THIS REPL..
 
 ## UPDATE!!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudoAnirudh/E-V-A)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/FrazBoyv1/zia)
 
 [![My Bot OFF](https://img.shields.io/badge/MyBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/13656503237?text=.menu)
 **BOT ON**
